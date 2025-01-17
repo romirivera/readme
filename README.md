@@ -29,7 +29,7 @@ Pequeña descripción de mí como desarrolladora
 
   
 <h2> Sobre mí</h2>
-<h3>- Apasionada por el desarrollo web </h3>
+<h3>- 👩🏻‍💻 Apasionada por el desarrollo web </h3>
 <h3>- 📚 Me gusta aprender de forma autodidacta</h3>
 <h3>- 💻 Me cambié de carrera desde la odontología a la programación </h3>
 <h3>- 🎨 También me gusta pintar y tengo un emprendimiento de retratos de mascotas</h3>
