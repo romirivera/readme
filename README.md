@@ -8,7 +8,7 @@ Pequeña descripción de mí como desarrolladora
     <a href="https://www.linkedin.com/in/romina-andrea-rivera-caceres-/"> <img height="30" src= "linkedin.jpg" alt="linkedin" > </a> 
 </p>
 <div align="center">
-    <h3> 👩🏻 Romina Rivera| 👩🏻‍💻desarrolladora de software | 🌏 Santiago, CHILE </h3>
+    <h3> 👩🏻 Romina Rivera| 👩🏻‍💻Desarrolladora de software | 🌏 Santiago, CHILE </h3>
     </div>
 
 <h2> Lenguajes y herramientas </h2> 
@@ -29,7 +29,7 @@ Pequeña descripción de mí como desarrolladora
 
   
 <h2> Sobre mí</h2>
-<h1>- Apasionada por el desarrollo web </h1>
-<h1>- 📚 Me gusta aprender de forma autodidacta</h1>
-<h1>- 💻 Me cambié de carrera desde la odontología a la programación </h1>
-<h1>- 🎨 También me gusta pintar y tengo un emprendimiento de retratos de mascotas</h1>
+<h3>- Apasionada por el desarrollo web </h3>
+<h3>- 📚 Me gusta aprender de forma autodidacta</h3>
+<h3>- 💻 Me cambié de carrera desde la odontología a la programación </h3>
+<h3>- 🎨 También me gusta pintar y tengo un emprendimiento de retratos de mascotas</h3>
